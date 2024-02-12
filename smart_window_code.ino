@@ -67,7 +67,7 @@ int humidity(){
 void autu(){
   int hum=humidity();
 
-  if (hum>=68&& hum<=77){
+  if (hum>=68&& hum<=82.4){
     val=90;
     open();
    }
