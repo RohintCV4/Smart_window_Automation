@@ -8,7 +8,7 @@ DHT dht(DHTPIN, DHTTYPE);
 Servo myservo;  
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
-#include <UniversalTelegramBot.h>  aa
+#include <UniversalTelegramBot.h> 
 #include <ArduinoJson.h>
 #define BOTtoken "5743225904:AAGxvy5wd8Uboa0Eojv5lsUoojZ1524XI8A" 
 #define CHAT_ID "1156498647"
